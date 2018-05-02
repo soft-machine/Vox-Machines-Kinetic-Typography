@@ -12,8 +12,10 @@ Pauline Chasseriaud
 # Partners
 Festival Acces)s( 
 - https://acces-s.org/
+
 Ésa Pyrénées 
 - www.esapyrenees.fr
+
 Ministère de la Culture
 
 Several creative examples using creative coding, speech recognition and kinetic typography.
@@ -35,6 +37,13 @@ https://github.com/kitasenjudesign/kitasenjudesign_work
 https://github.com/kitasenjudesign/kitasenjudesign_work/tree/master/60_distort_clock
 https://github.com/trippedout
 https://github.com/Aetherpoint/livefontinterpolation
+https://codepen.io/tutsplus/pen/zGovKL
+https://codepen.io/Octavector/pen/RNgxpQ
+https://codepen.io/mimikos/full/zEoWzG/
+https://codepen.io/jonnyscholes/pen/QbKPdZ
+https://codepen.io/yoksel/pen/XJbzrO
+https://github.com/StefanPahlplatz/circle-packing
+https://codepen.io/giana/pen/qmKNeE
 
  
 
